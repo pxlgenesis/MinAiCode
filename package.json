@@ -1,0 +1,28 @@
+{
+  "name": "minaicode",
+  "version": "1.0.0",
+  "description": "Anti vibe-coding minimal.",
+  "keywords": [
+    "minimal",
+    "coding",
+    "devtools"
+  ],
+  "homepage": "https://github.com/pxlgenesis/MinAiCode#readme",
+  "bugs": {
+    "url": "https://github.com/pxlgenesis/MinAiCode/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pxlgenesis/MinAiCode.git"
+  },
+  "license": "ISC",
+  "author": "Gautam Shukla",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "electron": "^39.2.7"
+  }
+}
